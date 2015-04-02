@@ -1,0 +1,63 @@
+P{
+    font-weight:200;
+}
+
+
+/****************************navbar and tag line************************/
+.navbar{
+    position: absolute;
+    z-index: 10000;
+    background-color: transparent;
+    border: none;
+    right: 0;
+    pading: 1em;
+}
+
+.navbar .navbar-nav>li>a{
+    color: aqua;
+    border-bottom: solid 1px orange;
+    
+}
+
+.navbar .navbar-nav>li>a:hover{
+    color: #F22E10
+}
+
+#tagline { 
+    position: absolute;
+    width: 100vw;
+    padding: 5em;
+    z-index: 100;
+}
+
+/**************************************landing page*****************************/
+#bg-image{
+    margin: 15px 0; /* top righ bottom*/
+    background-image: url(img/a-2.jpeg);
+    height: 100vh;
+    background-size: cover;
+}
+    
+.pink {
+    color:pink;
+}
+
+/*body*/
+H1:hover {
+  color: blue;   
+}
+
+
+
+p:hover {
+    color: yellowgreen;    
+}
+/*********************************work page*************************/
+#work #myCarousel{
+    height: 100vh;
+    overflow: hidden;
+}
+
+#work #myCarousel img{
+    width: 100vw;
+}
