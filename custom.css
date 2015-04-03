@@ -53,6 +53,17 @@ p:hover {
     color: yellowgreen;    
 }
 /*********************************work page*************************/
+#work .bg-orange{
+    background-color: rgba(255, 192, 203, 100);
+}
+
+#work .bg-blue{
+    background-color: blue;
+}
+
+#work .bg-yellow{
+    background-color: yellow;
+}
 #work #myCarousel{
     height: 100vh;
     overflow: hidden;
