@@ -53,6 +53,10 @@ p:hover {
     color: yellowgreen;    
 }
 /*********************************work page*************************/
+#work .hide-title>h5{
+    opacity: 0;
+}
+
 #work #portfolio img:hover{
     opacity: 0.4;
     filter: blur(0.5);
