@@ -53,11 +53,20 @@ p:hover {
     color: yellowgreen;    
 }
 /*********************************work page*************************/
+#work #portfolio img:hover{
+    opacity: 0.3;
+    filter: blur(4px);
+    
+}
+    
+
 #work .bg-orange{
     background-color: rgba(255, 192, 203, 100);
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
+    text-align: center;
+    
 }
 
 #work .bg-blue{
@@ -65,6 +74,7 @@ p:hover {
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
+    text-align: center;
 }
 
 #work .bg-yellow{
@@ -72,42 +82,50 @@ p:hover {
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
+    text-align: center;
 }
 #work .bg-red{
     background-color: red;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
+    text-align: center;
+    
 }
 #work .bg-brown{
     background-color: brown;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
+    text-align: center;
 }
 #work .bg-green{
     background-color: green;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
+    text-align: center;
 }
 #work .bg-hotpink{
     background-color: hotpink;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
+    text-align: center;
 }
 #work .bg-gray{
     background-color: gray;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
+    text-align: center;
 }
 #work .bg-pink{
     background-color: pink;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
+    text-align: center;
 }
 #work
 #work #myCarousel{
