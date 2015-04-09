@@ -63,7 +63,7 @@ p:hover {
 }
 
 #work #portfolio img{
-    transition: 2.0s;
+    transition: 1.0s;
     transition-timing-function: ease-in;
     
 }
