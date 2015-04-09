@@ -55,15 +55,61 @@ p:hover {
 /*********************************work page*************************/
 #work .bg-orange{
     background-color: rgba(255, 192, 203, 100);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
 }
 
 #work .bg-blue{
     background-color: blue;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
 }
 
 #work .bg-yellow{
     background-color: yellow;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
 }
+#work .bg-red{
+    background-color: red;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+#work .bg-brown{
+    background-color: brown;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+#work .bg-green{
+    background-color: green;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+#work .bg-hotpink{
+    background-color: hotpink;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+#work .bg-gray{
+    background-color: gray;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+#work .bg-pink{
+    background-color: pink;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+#work
 #work #myCarousel{
     height: 100vh;
     overflow: hidden;
